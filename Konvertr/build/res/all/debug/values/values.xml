@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+
+    <!-- From: file:/G:/Android/Konvertr2/Konvertr/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="area_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Acres (ac)</item>
+        <item>Hectares (ha)</item>
+        <item>Square Centimeters (cm²)</item>
+        <item>Square Feet (ft²)</item>
+        <item>Square Inches (in²)</item>
+        <item>Square Kilometers (km²)</item>
+        <item>Square Meters (m²)</item>
+        <item>Square Miles (mi²)</item>
+        <item>Square Millimeters (mm²)</item>
+        <item>Square Yards (yd²)</item>
+    </string-array>
+    <string-array name="length_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Centimeters (cm)</item>
+        <item>Feet (ft)</item>
+        <item>Inches (in)</item>
+        <item>Kilometers (km)</item>
+        <item>Meters (m)</item>
+        <item>Miles (mi)</item>
+        <item>Millimeters (mm)</item>
+        <item>Nanometers (nm)</item>
+        <item>Yards (yd)</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_area</item>
+        <item>@drawable/ic_length</item>
+        <item>@drawable/ic_speed</item>
+        <item>@drawable/ic_temperature</item>
+        <item>@drawable/ic_time</item>
+        <item>@drawable/ic_volume</item>
+        <item>@drawable/ic_weight</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Area</item>
+        <item>Length</item>
+        <item>Speed</item>
+        <item>Temperature</item>
+        <item>Time</item>
+        <item>Volume</item>
+        <item>Weight</item>
+    </string-array>
+    <string-array name="speed_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Feet/Second (ft/s)</item>
+        <item>Feet/Minute (ft/min)</item>
+        <item>Kilometers/Minute (km/min)</item>
+        <item>Kilometers/Hour (km/h)</item>
+        <item>Knots (kn)</item>
+        <item>Meters/Second (m/s)</item>
+        <item>Miles/Minute (mi/min)</item>
+        <item>Miles/Hour (mph)</item>
+    </string-array>
+    <string-array name="temperature_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+        <item>Kelvin (°K)</item>
+    </string-array>
+    <string-array name="time_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Days (d)</item>
+        <item>Hours (hr)</item>
+        <item>Minutes (min)</item>
+        <item>Months (mo)</item>
+        <item>Seconds (s)</item>
+        <item>Weeks (wk)</item>
+        <item>Years (yr)</item>
+    </string-array>
+    <string-array name="volume_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Cubic Centimeters (cm³)</item>
+        <item>Cubic Feet (ft³)</item>
+        <item>Cubic Inches (in³)</item>
+        <item>Cubic Meters (m³)</item>
+        <item>Cubic Yards (yd³)</item>
+        <item ns1:ignore="TypographyOther">Cups (c)</item>
+        <item>Drams (US) (dr)</item>
+        <item>Fluid Ounces (fl oz)</item>
+        <item>Gallons (Imperial) (gal)</item>
+        <item>Gallons (US) (gal)</item>
+        <item>Quarts (US) (qt)</item>
+        <item>Liters (L)</item>
+        <item>Milliliters (mL)</item>
+        <item>Oil Barrels (US) (bbl)</item>
+        <item>Pints (US)</item>
+        <item>Tablespoons (tbsp)</item>
+        <item>Teaspoons (tsp)</item>
+    </string-array>
+    <string-array name="weight_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Grains (gr)</item>
+        <item>Grams (g)</item>
+        <item>Kilograms (kg)</item>
+        <item>Metric Tons (t)</item>
+        <item>Milligrams (mg)</item>
+        <item>Ounces (US) (oz)</item>
+        <item>Pounds (US) (lb)</item>
+        <item>Short Tons (US) (T)</item>
+        <item>Stones (UK) (st)</item>
+        <item>Troy Ounces (oz t)</item>
+    </string-array>
+    <!-- From: file:/G:/Android/Konvertr2/Konvertr/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="list_background">#111</color>
+    <color name="list_background_pressed">#ff7a27a1</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="window_bg">#111</color>
+    <!-- From: file:/G:/Android/Konvertr2/Konvertr/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/G:/Android/Konvertr2/Konvertr/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_swap">SWAP</string>
+    <string name="app_name">Konvertr</string>
+    <string name="convert_button">Convert</string>
+    <string name="convert_from">Convert From:</string>
+    <string name="convert_to">Convert To:</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Navigation Drawer Closed</string>
+    <string name="drawer_open">Navigation Drawer Opened</string>
+    <string name="result_box">Result Box</string>
+    <!-- From: file:/G:/Android/Konvertr2/Konvertr/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ActionBar.Solid.Konvertr" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_background_textured_konvertr</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_konvertr</item>
+        <item name="android:backgroundSplit">@drawable/ab_background_textured_konvertr</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Konvertr" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_konvertr</item>
+    </style>
+
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Konvertr</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Konvertr</item>
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:windowTranslucentNavigation" ns1:targetApi="19">true</item>
+        <item name="android:dropDownSpinnerStyle">@style/SpinnerAppTheme</item>
+    </style>
+
+    <style name="PopupMenu.Konvertr" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_konvertr</item>
+    </style>
+
+    <style name="SpinnerAppTheme" parent="android:Widget.Holo.Spinner">
+        <item name="android:background">@drawable/apptheme_spinner_background_holo_dark</item>
+    </style>
+
+</resources>

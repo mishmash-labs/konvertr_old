@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Konvertr</string>
+    <string name="drawer_open">Navigation Drawer Opened</string>
+    <string name="drawer_close">Navigation Drawer Closed</string>
+    <string name="convert_button">Convert</string>
+    <string name="convert_from">Convert From:</string>
+    <string name="convert_to">Convert To:</string>
+    <string name="action_swap">SWAP</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="result_box">Result Box</string>
+
+    // Navigation drawer menu items.
+    <string-array name="nav_drawer_items">
+        <item>Area</item>
+        <item>Length</item>
+        <item>Speed</item>
+        <item>Temperature</item>
+        <item>Time</item>
+        <item>Volume</item>
+        <item>Weight</item>
+    </string-array>
+
+    // Navigation drawer menu items icons.
+    // In the same order as nav_drawer_items array.
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_area</item>
+        <item>@drawable/ic_length</item>
+        <item>@drawable/ic_speed</item>
+        <item>@drawable/ic_temperature</item>
+        <item>@drawable/ic_time</item>
+        <item>@drawable/ic_volume</item>
+        <item>@drawable/ic_weight</item>
+    </array>
+
+    <string-array name="length_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Centimeters (cm)</item>
+        <item>Feet (ft)</item>
+        <item>Inches (in)</item>
+        <item>Kilometers (km)</item>
+        <item>Meters (m)</item>
+        <item>Miles (mi)</item>
+        <item>Millimeters (mm)</item>
+        <item>Nanometers (nm)</item>
+        <item>Yards (yd)</item>
+    </string-array>
+
+    <string-array name="temperature_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Celsius (&#176;C)</item>
+        <item>Fahrenheit (&#176;F)</item>
+        <item>Kelvin (&#176;K)</item>
+    </string-array>
+
+    <string-array name="speed_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Feet/Second (ft/s)</item>
+        <item>Feet/Minute (ft/min)</item>
+        <item>Kilometers/Minute (km/min)</item>
+        <item>Kilometers/Hour (km/h)</item>
+        <item>Knots (kn)</item>
+        <item>Meters/Second (m/s)</item>
+        <item>Miles/Minute (mi/min)</item>
+        <item>Miles/Hour (mph)</item>
+    </string-array>
+
+    <string-array name="weight_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Grains (gr)</item>
+        <item>Grams (g)</item>
+        <item>Kilograms (kg)</item>
+        <item>Metric Tons (t)</item>
+        <item>Milligrams (mg)</item>
+        <item>Ounces (US) (oz)</item>
+        <item>Pounds (US) (lb)</item>
+        <item>Short Tons (US) (T)</item>
+        <item>Stones (UK) (st)</item>
+        <item>Troy Ounces (oz t)</item>
+    </string-array>
+
+    <string-array name="volume_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Cubic Centimeters (cm&#179;)</item>
+        <item>Cubic Feet (ft&#179;)</item>
+        <item>Cubic Inches (in&#179;)</item>
+        <item>Cubic Meters (m&#179;)</item>
+        <item>Cubic Yards (yd&#179;)</item>
+        <item tools:ignore="TypographyOther">Cups (c)</item>
+        <item>Drams (US) (dr)</item>
+        <item>Fluid Ounces (fl oz)</item>
+        <item>Gallons (Imperial) (gal)</item>
+        <item>Gallons (US) (gal)</item>
+        <item>Quarts (US) (qt)</item>
+        <item>Liters (L)</item>
+        <item>Milliliters (mL)</item>
+        <item>Oil Barrels (US) (bbl)</item>
+        <item>Pints (US)</item>
+        <item>Tablespoons (tbsp)</item>
+        <item>Teaspoons (tsp)</item>
+    </string-array>
+
+    <string-array name="area_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Acres (ac)</item>
+        <item>Hectares (ha)</item>
+        <item>Square Centimeters (cm&#178;)</item>
+        <item>Square Feet (ft&#178;)</item>
+        <item>Square Inches (in&#178;)</item>
+        <item>Square Kilometers (km&#178;)</item>
+        <item>Square Meters (m&#178;)</item>
+        <item>Square Miles (mi&#178;)</item>
+        <item>Square Millimeters (mm&#178;)</item>
+        <item>Square Yards (yd&#178;)</item>
+    </string-array>
+
+    <string-array name="time_items">
+        <item>- - - - - - - - - - - - -</item>
+        <item>Days (d)</item>
+        <item>Hours (hr)</item>
+        <item>Minutes (min)</item>
+        <item>Months (mo)</item>
+        <item>Seconds (s)</item>
+        <item>Weeks (wk)</item>
+        <item>Years (yr)</item>
+    </string-array>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Konvertr</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Konvertr</item>
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:windowTranslucentNavigation" tools:targetApi="19">true</item>
+        <item name="android:dropDownSpinnerStyle">@style/SpinnerAppTheme</item>
+    </style>
+    <style name="ActionBar.Solid.Konvertr" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_background_textured_konvertr</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_konvertr</item>
+        <item name="android:backgroundSplit">@drawable/ab_background_textured_konvertr</item>
+    </style>
+    <style name="ActionBar.Transparent.Konvertr" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_konvertr</item>
+    </style>
+    <style name="PopupMenu.Konvertr" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_konvertr</item>
+    </style>
+    <style name="SpinnerAppTheme" parent="android:Widget.Holo.Spinner">
+        <item name="android:background">@drawable/apptheme_spinner_background_holo_dark</item>
+    </style>
+</resources>
